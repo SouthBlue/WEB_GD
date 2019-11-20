@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/admin/add-product.jsp=UTF-8
+encoding//WebContent/views/client/footer.jsp=UTF-8
+encoding//WebContent/views/client/seach.jsp=UTF-8
+encoding//src/ptithcm/controller/LoginController.java=UTF-8
+encoding//src/ptithcm/controller/OrderController.java=UTF-8
+encoding//src/ptithcm/controller/RegisterController.java=UTF-8
+encoding//src/ptithcm/controller/admin/UserAddController.java=UTF-8
